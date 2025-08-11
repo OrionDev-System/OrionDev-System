@@ -36,8 +36,9 @@ I believe in **learning by doing**, and this bot project is my first big step in
 ---
 
 ## 📬 Contact
-- **Discord:** [Orion](https://discordapp.com/users/796488119376674867)
-- **GitHub:** [OrionDev-System](https://github.com/OrionDev-System)
+- **Discord:**  [Orion](https://discordapp.com/users/796488119376674867)
+                (Opens my Discord profile — send a friend request or message)
+- **GitHub:**   [OrionDev-System](https://github.com/OrionDev-System)
 
 ---
 *“Small steps every day lead to big results.”*
