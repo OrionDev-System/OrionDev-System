@@ -36,7 +36,7 @@ I believe in **learning by doing**, and this bot project is my first big step in
 ---
 
 ## 📬 Contact
-- **Discord:** https://discordapp.com/users/796488119376674867
+- **Discord:** [Orion](https://discordapp.com/users/796488119376674867)
 - **GitHub:** [OrionDev-System](https://github.com/OrionDev-System)
 
 ---
