@@ -36,8 +36,8 @@ I believe in **learning by doing**, and this bot project is my first big step in
 ---
 
 ## 📬 Contact
-- **Discord:** (your Discord tag here)
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
+- **Discord:** (redsytex)
+- **GitHub:** [OrionDev-System](https://github.com/OrionDev-System)
 
 ---
 *“Small steps every day lead to big results.”*
