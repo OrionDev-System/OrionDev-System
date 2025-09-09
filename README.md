@@ -10,7 +10,7 @@ I’m documenting my journey from beginner to developer — one commit at a time
 - Learning **Python** step-by-step through a real project
 - Understanding how to structure and document code
 - Using Git & GitHub for version control
-- Building a public **Showcase** repository for future employers & teams
+- Building a public **Showcase** repository for possible future employers & teams
 
 ---
 
