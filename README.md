@@ -11,11 +11,13 @@ I’m documenting my journey from beginner to developer — one commit at a time
 - Understanding how to structure and document code
 - Using Git & GitHub for version control
 - Building a public **Showcase** repository for possible future employers & teams
+- Exploring **GreyScript** by creating tools for the hacking-simulation game *Greyhack*
 
 ---
 
 ## 🛠️ Tools & Skills (in progress)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
+![GreyScript](https://img.shields.io/badge/GreyScript-grey?style=for-the-badge)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?logo=discord&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Nobara-FCC624?logo=linux&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/PyCharm-Community%20Edition-000000?logo=pycharm&logoColor=white)
@@ -26,12 +28,18 @@ I’m documenting my journey from beginner to developer — one commit at a time
 ## 📂 My Repositories
 - 🔒 **Private Bot Repository** – Full code, under development
 - 🌐 **Public Showcase Repository** – Safe snippets, documentation, screenshots (coming soon)
+- 🔒 **GreyScript Tools Repository** – Private collection of utilities & scripts for *Greyhack*, documenting my experiments and progress in the language
 
 ---
 
 ## 📈 My Learning Journey
 I commit regularly to keep my skills growing and my GitHub contribution graph green ✅  
-I believe in **learning by doing**, and this bot project is my first big step into software development.
+I believe in **learning by doing**, and each project I build is a step toward becoming a stronger developer.
+
+- With **Python**, I’m focusing on automation, APIs, and modular project design.  
+- With **GreyScript** (in *Greyhack*), I’m sharpening my problem-solving skills by creating tools and scripts that simulate real-world hacking and system logic.
+
+Both languages challenge me in different ways, and together they help me build a deeper understanding of coding, security concepts, and creative problem solving.
 
 ---
 
