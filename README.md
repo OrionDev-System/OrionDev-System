@@ -20,9 +20,12 @@ Every commit is a step forward — from writing my first lines of code to buildi
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?logo=discord&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Nobara-FCC624?logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-00BFFF?style=for-the-badge&logo=wayland&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-Community%20Edition-000000?logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Experienced%20Beginner-F05032?logo=git&logoColor=white)
 ![GreyScript](https://img.shields.io/badge/GreyScript-grey?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
@@ -30,7 +33,7 @@ Every commit is a step forward — from writing my first lines of code to buildi
 - 🔒 **Private Bot Repository** – Full code, under development
 - 🌐 **Public Showcase Repository** – Safe snippets, documentation, screenshots (coming soon)
 - 🔒 **GreyScript Tools Repository** – Private collection of utilities & scripts for *Greyhack*,
-    documenting my experiments and progress in the language
+    documenting my experiments and progress
 
 ---
 
