@@ -1,8 +1,9 @@
 # Hi, I'm Orion 👋
 
-I'm currently **learning Python from scratch** by developing my own modular Discord bot.  
-This project is my hands-on way to understand coding basics, APIs, and automation.  
-I’m documenting my journey from beginner to developer — one commit at a time.
+I’m on a journey to become a developer by **learning through projects**.  
+Right now, I’m building a modular Discord bot in **Python** and creating custom tools in **GreyScript** for the game *Greyhack*.  
+
+Every commit is a step forward — from writing my first lines of code to building real, working tools.
 
 ---
 
@@ -17,11 +18,11 @@ I’m documenting my journey from beginner to developer — one commit at a time
 
 ## 🛠️ Tools & Skills (in progress)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
-![GreyScript](https://img.shields.io/badge/GreyScript-grey?style=for-the-badge)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?logo=discord&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Nobara-FCC624?logo=linux&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/PyCharm-Community%20Edition-000000?logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Experienced%20Beginner-F05032?logo=git&logoColor=white)
+![GreyScript](https://img.shields.io/badge/GreyScript-grey?style=for-the-badge)
 
 ---
 
