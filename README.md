@@ -29,7 +29,8 @@ Every commit is a step forward — from writing my first lines of code to buildi
 ## 📂 My Repositories
 - 🔒 **Private Bot Repository** – Full code, under development
 - 🌐 **Public Showcase Repository** – Safe snippets, documentation, screenshots (coming soon)
-- 🔒 **GreyScript Tools Repository** – Private collection of utilities & scripts for *Greyhack*, documenting my experiments and progress in the language
+- 🔒 **GreyScript Tools Repository** – Private collection of utilities & scripts for *Greyhack*,
+    documenting my experiments and progress in the language
 
 ---
 
